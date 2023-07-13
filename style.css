@@ -1,5 +1,5 @@
 :root {
-    --primary-clr: #b38add;
+  --primary-clr: #b38add;
 }
 * {
   margin: 0;
@@ -19,7 +19,7 @@
   background: var(--primary-clr);
   border-radius: 50px;
 }
-  
+
 body {
   position: relative;
   min-height: 100vh;
@@ -37,6 +37,7 @@ body {
   padding: 5px;
   color: #fff;
   display: flex;
+
   border-radius: 10px;
   background-color: #373c4f;
 }
