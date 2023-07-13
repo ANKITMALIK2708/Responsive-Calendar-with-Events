@@ -268,7 +268,7 @@ function updateEvents(date) {
   saveEvents();
 }
 
-//function to add event
+//function to add event to calender
 addEventBtn.addEventListener("click", () => {
   addEventWrapper.classList.toggle("active");
 });

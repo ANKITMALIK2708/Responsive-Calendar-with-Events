@@ -328,7 +328,7 @@ body {
 .events .event:hover .event-time {
   color: #fff;
 }
-/* add tick in event after */
+/* add tick in event after after event */
 .events .event::after {
   content: "✓";
   position: absolute;
